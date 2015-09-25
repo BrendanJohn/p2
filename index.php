@@ -15,7 +15,7 @@
                <div class="control-label form-group">Number of Words:
                   <input type="text" name="numOfWords">
                </div>
-               <div class="control-label form-group">Include a symbol?*
+               <div class="control-label form-group">Include a symbol?
                   <label for="symbolyes" class="radio-inline">
                   <input type="radio" name="symbol" id="symbolyes" required value="yes"> Yes 
                   </label>

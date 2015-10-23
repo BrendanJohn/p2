@@ -7,7 +7,7 @@
 In this project is an xkcs password generator
 
 ## Demo
-N/A
+<http://screencast.com/t/zqPAGC7W6>
 
 
 ## Libraries

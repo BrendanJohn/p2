@@ -4,12 +4,13 @@
       <title>XKCD Password Generator</title>
       <meta charset='utf-8'>
       <meta name='viewport' content='width=device-width, initial-scale=1'>
+      <link rel="shortcut icon" type="image/png" href="/lock.jpg">
       <link href='//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css' rel="stylesheet">
    </head>
    <body>
       <div class="container">
          <h1>Password Generator</h1>
-         <p>An XKCD password strings together four random words to create a password that is challenging to guess but easy to remember. The benefit of this multi-word method is that the longer one`s password, the harder it is to crack. This is true for passwords made of both common dictionary words and randomly generated strings of text. This application will produce a random set of words that one could use as a password.</p>
+         <p>An XKCD password strings together four random words to create a password that is challenging to guess but easy to remember. The benefit of a multi-word method is that the longer one`s password, the harder it is to crack. This is true for passwords made of both common dictionary words and randomly generated strings of text. This application will produce a random set of words that one could use as a password.</p>
          <div class="col-md-6">
             <form method='POST' action='index.php'>
                <div class="control-label form-group">Number of Words:
